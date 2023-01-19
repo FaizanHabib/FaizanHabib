@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Profile views](https://gpvc.arturio.dev/FaizanHabib)
+
+# My GitHub Stats 📊
+
+[![GitHub](https://github-readme-stats.vercel.app/api?username=FaizanHabib&theme=tokyonight)](https://github.com/FaizanHabib)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanHabib&theme=tokyonight&layout=compact)](https://github.com/FaizanHabib)
